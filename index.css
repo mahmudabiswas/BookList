@@ -1,0 +1,33 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  width: 80%;
+  margin: auto;
+}
+h1 {
+  text-align: center;
+  font-size: 40px;
+}
+span {
+  color: yellow;
+}
+.inputField {
+  display: flex;
+  flex-direction: column;
+  width: 50%;
+  margin: auto;
+}
+.inputField > input {
+  margin-bottom: 10px;
+}
+.addBtn {
+  margin-top: 5px;
+  padding: 5px;
+  background-color: yellow;
+}
+table {
+  text-align: center;
+  width: 50%;
+  margin: auto;
+}
